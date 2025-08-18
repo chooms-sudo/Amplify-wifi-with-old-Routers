@@ -3,7 +3,7 @@ Step by step guide on how to make a network cluster made up of old Routers to am
 
 # You need at least one extra router
 
-**Step 1:** You need to either plug the old router(s) into the power and connect to it(them)
+# Step 1: You need to either plug the old router(s) into the power and connect to it(them)
 via wifi or by plugging the ethernet port into both your computer and the router itself. **You will not be able to access an Internet Connection while doing this.**
 **If there are any options that your router(s) don't have then just skip the step.**
 Finally access the Router's web panel (192.168.x.xxx) find your gateway via the command line there are millions of guides online.
