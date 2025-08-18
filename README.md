@@ -44,3 +44,10 @@ So what you will want to do is change your SSID on your router(s) if you really 
 Firewall and other stuff
 
 So go into advanced settings and change the firewall state to deactivated.
+Next, Go into NAT then into ALG and uncheck all squares ALG is a securitt feature that inspects work traffic. Finally make sure UPnP is on, UPnP makes it so that devices automatically discover eachother and connect.
+
+# Step 8:
+Now we'll get physical
+
+So we want to plug in the router(s) to the main router via ethernet heres how i did it 
+Main router-Router A, Router A to Router B, And Router A to Ethernet switch (if you're into networking like me)
