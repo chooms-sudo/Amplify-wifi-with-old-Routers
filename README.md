@@ -32,3 +32,10 @@ off don't worry that's supposed to happen now re-log back in with your new IP.
 Back to DHCP Settings
 
 You will want to deactivate the option "use a specified range for DHCP" or similar" Next Deactivate DHCP IPv6 Server and finally Deactivate SLAAC This basically lets the router make its own ipv6 addresses which will cause conflicts with the main router if left on because only one can be making addresses.
+
+# Step 6:
+WLAN again
+
+So here literally change everything to your liking like the strength of the signal etc.
+
+So what you will want to do is change your SSID on your router(s) if you really wanted to you could make them the same to effectively make your own private network apart from the main one what i did was change them both to the main network's SSID to increase overall performance my internet was increased from 15 mbps to 80-115 mbps.
