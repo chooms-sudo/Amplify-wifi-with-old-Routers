@@ -20,5 +20,5 @@ Going to the selected router's WAN settings change connection type to Bridge or 
 **Step 4** **CRUCIAL IF YOU WANT TO ACCESS SETTINGS**
 Go into the WLAN tab and change each of the router's Gateway IP's (in my case since I live in Mexico and use Infinitum Wifi my default Gateway IP for my main router is 192.168.1.254)
  So make sure to use a different one for each router (excluding your main router
-dont change its ip that would be bad) once you change that you SHOULD get kicked
+dont change it's ip that would be bad) Since my main router is 192.168.1.254, I changed my other router's IPs to 192.168.1.253 and .252. Once you change that you SHOULD get kicked
 off don't worry that's supposed to happen now re-log back in with your new IP.
