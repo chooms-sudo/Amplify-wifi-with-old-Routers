@@ -12,6 +12,7 @@ Log in to the panel The user should already be entered if not check the back of 
 
 **Step 2:** **(CRUCIAL)**
 Disable DHCP Server.
+
 This step is usually found in the LAN tab, this step is crucial because the DCHP Server is the one handing out IP's to devices so if any router(s) has the DHCP Server activated it will cause the main router to conflict with other routers.
 
 **Step 3:**
