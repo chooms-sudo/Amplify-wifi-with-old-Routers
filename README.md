@@ -38,4 +38,4 @@ WLAN again
 
 So here literally change everything to your liking like the strength of the signal etc.
 
-So what you will want to do is change your SSID on your router(s) if you really wanted to you could make them the same to effectively make your own private network apart from the main one what i did was change them both to the main network's SSID to increase overall performance my internet was increased from 15 mbps to 80-115 mbps.
+So what you will want to do is change your SSID on your router(s) if you really wanted to you could make them the same to effectively make your own private network apart from the main one what i did was change them both to the main network's SSID to increase overall performance my internet was increased from 15 mbps to 80-115 mbps. (MAKE SURE TO ALSO CHANGE THE PASSWD TO THE SAME THING)
