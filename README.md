@@ -10,7 +10,7 @@ via wifi or by plugging the ethernet port into both your computer and the router
 Finally access the Router's web panel (192.168.x.xxx) find your gateway via the command line there are millions of guides online.
 Log in to the panel The user should already be entered if not check the back of your router (in my case user is TELMEX) the passwd is usually the wifi password
 
-**Step 2:** **(CRUCIAL)**
+# Step 2: (CRUCIAL)
 Disable DHCP Server.
 
 This step is usually found in the LAN tab, this step is crucial because the DCHP Server is the one handing out IP's to devices so if any router(s) has the DHCP Server activated it will cause the main router to conflict with other routers.
