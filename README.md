@@ -15,7 +15,7 @@ Disable DHCP Server.
 
 This step is usually found in the LAN tab, this step is crucial because the DCHP Server is the one handing out IP's to devices so if any router(s) has the DHCP Server activated it will cause the main router to conflict with other routers.
 
-**Step 3:**
+# Step 3:
 WAN settings
 Going to the selected router's WAN settings change connection type to Bridge or Access point (IF YOU DONT DO THIS ONCE YOU CONNECT IT TO THE MAIN ROUTER THE INTERNET WILL BE VERY SLOW,if this option isn't available then skip it) next you want to enable the number of ssids you want to have (in my case 1).
 
