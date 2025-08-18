@@ -19,7 +19,9 @@ This step is usually found in the LAN tab, this step is crucial because the DCHP
 WAN settings
 Going to the selected router's WAN settings change connection type to Bridge or Access point (IF YOU DONT DO THIS ONCE YOU CONNECT IT TO THE MAIN ROUTER THE INTERNET WILL BE VERY SLOW,if this option isn't available then skip it) next you want to enable the number of ssids you want to have (in my case 1).
 
-**Step 4:** **CRUCIAL IF YOU WANT TO ACCESS SETTINGS**
+# Step 4: 
+CRUCIAL IF YOU WANT TO ACCESS SETTINGS!
+
 Go into the WLAN tab and change each of the router's Gateway IP's (in my case since I live in Mexico and use Infinitum Wifi my default Gateway IP for my main router is 192.168.1.254)
  So make sure to use a different one for each router (excluding your main router
 dont change it's ip that would be bad) Since my main router is 192.168.1.254, I changed my other router's IPs to 192.168.1.253 and .252. Once you change that you SHOULD get kicked
