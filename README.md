@@ -23,3 +23,5 @@ Go into the WLAN tab and change each of the router's Gateway IP's (in my case si
 dont change it's ip that would be bad) Since my main router is 192.168.1.254, I changed my other router's IPs to 192.168.1.253 and .252. Once you change that you SHOULD get kicked
 off don't worry that's supposed to happen now re-log back in with your new IP.
 **Step 5:**
+Back to DHCP Settings
+You will want to deactivate the option "use a specified range for DHCP" or similar" Next Deactivate DHCP IPv6 Server and finally Deactivate SLAAC This basically lets the router make its own ipv6 addresses which will cause conflicts with the main router if left on because only one can be making addresses.
