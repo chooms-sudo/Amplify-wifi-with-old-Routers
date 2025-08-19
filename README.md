@@ -1,5 +1,5 @@
 # Router-Cluster
-Step by step guide on how to make a network cluster made up of old Routers to amplify wifi signal.
+Step by step guide on how to make a network cluster made up of old Routers to amplify wifi signal and act as access points
 
 # You need at least one extra router
 
@@ -51,4 +51,16 @@ Now we'll get physical
 
 So we want to plug in the router(s) to the main router via ethernet heres how i did it 
 Main router-Router A, Router A to Router B, And Router A to Ethernet switch (if you're into networking like me)
+R![1000002699](https://github.com/user-attachments/assets/03fdcb79-c69f-4535-a75c-9c07f32bd365)
+
+If you want you can add a server in my case its my lenovo m920q running my minecraft server for me and my friends
+
+I did try this out myself here is the video I learnt this from.
+
+# Sources 
+https://youtu.be/lKYNnCtkqAo?si=n6HxeSmQLyEAcX9R
+
+# Why I did this
+
+
 
