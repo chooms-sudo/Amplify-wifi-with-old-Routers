@@ -62,5 +62,8 @@ https://youtu.be/lKYNnCtkqAo?si=n6HxeSmQLyEAcX9R
 
 # Why I did this
 
+I made this guide because it just makes me so sad to see all the e waste just thrown out that could still have a use like this.
+I also did this to help underprivileged people get better internet connections without having to pay for expensive services like fiber optic.
+
 
 
