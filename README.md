@@ -51,7 +51,7 @@ Now we'll get physical
 
 So we want to plug in the router(s) to the main router via ethernet heres how i did it 
 Main router-Router A, Router A to Router B, And Router A to Ethernet switch (if you're into networking like me)
-R![1000002699](https://github.com/user-attachments/assets/03fdcb79-c69f-4535-a75c-9c07f32bd365)
+[Results](https://github.com/user-attachments/assets/03fdcb79-c69f-4535-a75c-9c07f32bd365)
 
 If you want you can add a server in my case its my lenovo m920q running my minecraft server for me and my friends
 
