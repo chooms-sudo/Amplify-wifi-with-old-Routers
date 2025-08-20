@@ -59,7 +59,7 @@ I did try this out myself here is the video I learnt this from.
 
 # Sources 
 https://youtu.be/lKYNnCtkqAo?si=n6HxeSmQLyEAcX9R
-(THIS IS NOT ME I MERELY LEARNED THIS FROM THE VIDEO ABOBE)
+(THIS IS NOT ME I MERELY LEARNED THIS FROM THE VIDEO ABOVE)
 
 # Why I did this
 
