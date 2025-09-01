@@ -65,6 +65,8 @@ https://youtu.be/lKYNnCtkqAo?si=n6HxeSmQLyEAcX9R
 
 I made this guide because it just makes me so sad to see all the e waste just thrown out that could still have a use like this.
 I also did this to help underprivileged people get better internet connections without having to pay for expensive services like fiber optic.
+This Project positively impacted my family by   
+you know, boosting speeds if you want you could set up them up as a mesh to increase coverage!
 
 
 
