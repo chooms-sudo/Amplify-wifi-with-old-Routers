@@ -51,6 +51,10 @@ Now we'll get physical
 
 So we want to plug in the router(s) to the main router via ethernet heres how i did it 
 Main router-Router A, Router A to Router B, And Router A to Ethernet switch (if you're into networking like me)
+
+MAKE SURE TO SET THEM UP IN A MESH LIKE PATTERN FOR BETTER COVERAGE/SPEEDS.
+Another option is clustering them like i did to essentially create my own mini hotspot.
+
 [Results](https://github.com/user-attachments/assets/03fdcb79-c69f-4535-a75c-9c07f32bd365)
 
 If you want you can add a server in my case its my lenovo m920q running my minecraft server for me and my friends
@@ -65,8 +69,8 @@ https://youtu.be/lKYNnCtkqAo?si=n6HxeSmQLyEAcX9R
 
 I made this guide because it just makes me so sad to see all the e waste just thrown out that could still have a use like this.
 I also did this to help underprivileged people get better internet connections without having to pay for expensive services like fiber optic.
-This Project positively impacted my family by   
-you know, boosting speeds if you want you could set up them up as a mesh to increase coverage!
+This Project positively impacted my family.
+Thanks for stopping by.
 
 
 
