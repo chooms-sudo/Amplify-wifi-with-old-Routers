@@ -63,7 +63,7 @@ I did try this out myself here is the video I learnt this from.
 
 # Sources 
 https://youtu.be/lKYNnCtkqAo?si=n6HxeSmQLyEAcX9R
-(THIS IS NOT ME I MERELY LEARNED THIS FROM THE VIDEO ABOVE)
+(THIS IS NOT ME I USED THIS GUIDE TO LEARN HOW TO MAKE APS OUT OF OLD ROUTERS AND USE THAT TO BOOST INTERNET AROUND THE HOUSE)
 
 # Why I did this
 
